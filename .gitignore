@@ -1,0 +1,5 @@
+data/
+scorer/testset1/testset1-docs
+__pycache__/
+.vscode/
+oldCSVs/
